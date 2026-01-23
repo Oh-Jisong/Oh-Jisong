@@ -1,57 +1,59 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Oh-Jisong/Oh-Jisong/main/assets/banner.svg" alt="banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/Oh-Jisong/Oh-Jisong/main/assets/banner.svg?v=4" alt="banner" width="100%"/>
 
 <br/>
 
-Backend & Data-focused Developer  
-Interested in building reliable systems and scalable infrastructure.
+Backend Engineer focused on production-ready systems, security-aware backend design, and cloud infrastructure.
 
 <br/>
-
----
-
-## Links
-<a href="https://github.com/Oh-Jisong">GitHub</a> ·
-<a href="https://www.acmicpc.net/user/okjss9872">Baekjoon</a> ·
-<a href="https://solved.ac/okjss9872">Solved.ac</a>
-
----
-
-## Tech Stack
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,nodejs,php,spring,mysql,git,github,linux,docker,aws&perline=7" />
-
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Olist Customer Loyalty Analysis](https://github.com/Oh-Jisong/Olist-From-First-Purchase-to-Loyalty) | E-commerce customer behavior analysis and retention insights pipeline | Python · Pandas · ML |
-| [V-League Volleyball Scouting & Analytics Platform](https://github.com/Oh-Jisong/V-League-Volleyball-Scouting-Analytics-Platform) | Database-driven scouting/analytics web platform with advanced SQL | PHP · MySQL · SQL |
-| [Linux Rule-based Chatbot](https://github.com/Oh-Jisong/Linux-project_Rule-based-chatbot) | Linux environment chatbot automation with rule-based flow | Linux · Bash |
-| [PHP-MySQL Order System](https://github.com/Oh-Jisong/php-mysql-order-system) | Order CRUD web system focusing on DB design and query workflow | PHP · MySQL |
-
----
-
-## Algorithm
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=okjss9872)](https://solved.ac/okjss9872)
-
----
-
-## GitHub Activity
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oh-Jisong&theme=default"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Oh-Jisong&show_icons=true&hide_border=true&theme=default" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-Jisong&layout=compact&hide_border=true&theme=default" height="150"/>
-
----
-
-## Now
-- Practicing coding interview problems (Baekjoon / SQL)
-- Strengthening backend system design and query optimization
-- Improving Linux and cloud fundamentals for production environments
 
 </div>
+
+---
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,spring,mysql,linux,docker,aws&perline=10" />
+
+---
+
+### Selected Projects
+
+| Project | Focus | Stack |
+|---|---|---|
+| [Olist Customer Loyalty Analysis](https://github.com/Oh-Jisong/Olist-From-First-Purchase-to-Loyalty) | Customer retention modeling & data pipeline | Python · Pandas · ML |
+| [V-League Volleyball Scouting & Analytics Platform](https://github.com/Oh-Jisong/V-League-Volleyball-Scouting-Analytics-Platform) | Analytics backend & SQL-driven service | PHP · MySQL · SQL |
+| [Linux Rule-based Chatbot](https://github.com/Oh-Jisong/Linux-project_Rule-based-chatbot) | Linux automation & rule engine | Linux · Bash |
+| [PHP-MySQL Order System](https://github.com/Oh-Jisong/php-mysql-order-system) | Order CRUD workflow & relational DB design | PHP · MySQL |
+
+---
+
+### Links
+
+- GitHub: https://github.com/Oh-Jisong  
+- Baekjoon: https://www.acmicpc.net/user/okjss9872  
+- Solved.ac: https://solved.ac/okjss9872  
+
+---
+
+### Algorithm
+
+<p align="right">
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=okjss9872" width="300" />
+</p>
+
+---
+
+### Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=Oh-Jisong&show_icons=true&hide_border=true&theme=transparent" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-Jisong&layout=compact&hide_border=true&theme=transparent" height="150"/>
+
+---
+
+### Now
+
+- Building backend projects with stronger system design & SQL optimization
+- Practicing coding interviews (Baekjoon) and SQL problems (Programmers)
+- Improving Linux fundamentals and cloud tooling for production environments
