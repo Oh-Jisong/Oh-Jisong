@@ -113,9 +113,7 @@ V-League / php-mysql-order-system / Linux-chatbot / Olist +
 </p>
 
 <p align="left">
-  <a href="https://school.programmers.co.kr/users/ssongzzange" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/PROGRAMMERS-SSONGZZANGE-0b0f14?style=for-the-badge" />
-  </a>
+  <img src="https://img.shields.io/badge/PROGRAMMERS-SSONGZZANGE-0b0f14?style=for-the-badge" />
   <a href="https://school.programmers.co.kr/learn/challenges?tab=sql_practice" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/SQL-PRACTICE-0b0f14?style=for-the-badge" />
   </a>
