@@ -14,7 +14,14 @@ Backend Engineer focused on production-ready systems, security-aware backend des
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,php,spring,mysql,linux,docker,aws&perline=10" />
+#### Backend & Data
+<img src="https://skillicons.dev/icons?i=python,java,php,spring,mysql&perline=8"/>
+
+#### System & Cloud
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,nginx&perline=8"/>
+
+#### Security / Dev Tools
+<img src="https://skillicons.dev/icons?i=git,github,bash&perline=8"/>
 
 ---
 
@@ -31,24 +38,52 @@ Backend Engineer focused on production-ready systems, security-aware backend des
 
 ### Links
 
-- GitHub: https://github.com/Oh-Jisong  
-- Baekjoon: https://www.acmicpc.net/user/okjss9872  
-- Solved.ac: https://solved.ac/okjss9872  
+<p align="left">
+  <a href="https://github.com/Oh-Jisong">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.acmicpc.net/user/okjss9872">
+    <img src="https://img.shields.io/badge/Baekjoon-00599C?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://solved.ac/okjss9872">
+    <img src="https://img.shields.io/badge/Solved.ac-222222?style=for-the-badge"/>
+  </a>
+  <a href="YOUR_NOTION_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion"/>
+  </a>
+</p>
+
 
 ---
 
-### Algorithm
+### Algorithm & Problem Solving
 
-<p align="right">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=okjss9872" width="300" />
+<p align="left">
+  <a href="https://solved.ac/okjss9872">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=okjss9872" width="300"/>
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=baekjoon&hide_border=true"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Programmers-SQL%20Practice-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CodingTest-Active-success?style=for-the-badge"/>
 </p>
 
 ---
 
 ### Activity
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oh-Jisong&theme=github_dark"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Oh-Jisong&theme=dark&hide_border=true" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Oh-Jisong&show_icons=true&hide_border=true&theme=transparent" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-Jisong&layout=compact&hide_border=true&theme=transparent" height="150"/>
+
 
 ---
 
