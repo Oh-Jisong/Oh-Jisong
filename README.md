@@ -1,69 +1,110 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Oh-Jisong/Oh-Jisong/main/assets/banner.svg?v=5" alt="banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/Oh-Jisong/Oh-Jisong/main/assets/banner.svg?v=6" alt="banner" width="100%"/>
 
 <br/>
 
-Backend Engineer focused on production-ready systems, security-aware backend design, and cloud infrastructure.
+<h3>Backend · Security · Cloud</h3>
 
-<br/>
+<p>
+Production-ready backend systems · Security-aware design · Cloud/Infra fundamentals
+</p>
 
-<p align="center">
-  <b>학력</b> | 이화여자대학교 사이버보안학과 학사 졸업 예정<br/>
-  <b>Education</b> | Ewha Womans University — B.S. Candidate, Cybersecurity (Expected Graduation)
+<p>
+<b>학력</b> | 이화여자대학교 사이버보안학과 학사 졸업 예정<br/>
+<b>Education</b> | Ewha Womans University — B.S. Candidate, Cybersecurity (Expected Graduation)
+</p>
+
+<!-- Quick links (icon-only, no 403) -->
+<p>
+  <a href="https://github.com/Oh-Jisong" target="_blank">
+    <img height="34" src="https://cdn.simpleicons.org/github/ffffff" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.acmicpc.net/user/okjss9872" target="_blank">
+    <img height="34" src="https://cdn.simpleicons.org/baekjoon/ffffff" />
+  </a>&nbsp;&nbsp;
+  <a href="https://solved.ac/okjss9872" target="_blank">
+    <img height="34" src="https://cdn.simpleicons.org/svelte/ffffff" />
+  </a>&nbsp;&nbsp;
+  <a href="https://school.programmers.co.kr/users/ssongzzange" target="_blank">
+    <img height="34" src="https://cdn.simpleicons.org/codesandbox/ffffff" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.notion.so/Portfolio-1-2f1800434d5381a593bae579ac28ece6?source=copy_link" target="_blank">
+    <img height="34" src="https://cdn.simpleicons.org/notion/ffffff" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-### Tech Stack
+## Tech Stack
 
-#### Backend & Data
+**Backend & Data**
+<br/>
 <img src="https://skillicons.dev/icons?i=python,java,php,spring,mysql&perline=10" />
 
-#### Cloud & Infra
+<br/>
+
+**Cloud & Infra**
+<br/>
 <img src="https://skillicons.dev/icons?i=linux,docker,aws,nginx&perline=10" />
 
-#### Dev Tools
+<br/>
+
+**Security & Dev Tools**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,bash&perline=10" />
+<img src="https://skillicons.dev/icons?i=postman&perline=10" />
 
 ---
 
-### Selected Projects
+## Featured Projects (card-style)
 
-| Project | Focus | Stack |
-|---|---|---|
-| [V-League Volleyball Scouting & Analytics Platform](https://github.com/Oh-Jisong/V-League-Volleyball-Scouting-Analytics-Platform) | Analytics backend & SQL-driven service | PHP · MySQL · SQL |
-| [PHP-MySQL Order System](https://github.com/Oh-Jisong/php-mysql-order-system) | Order CRUD workflow & relational DB design | PHP · MySQL |
-| [Linux Rule-based Chatbot](https://github.com/Oh-Jisong/Linux-project_Rule-based-chatbot) | Linux automation & rule engine | Linux · Bash |
-| [Olist Customer Loyalty Analysis](https://github.com/Oh-Jisong/Olist-From-First-Purchase-to-Loyalty) | Customer retention modeling & data pipeline | Python · Pandas · ML |
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Oh-Jisong/V-League-Volleyball-Scouting-Analytics-Platform">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=V-League-Volleyball-Scouting-Analytics-Platform&theme=github_dark&hide_border=true" />
+      </a>
+      <br/>
+      <sub>Analytics backend & SQL-driven service (PHP/MySQL) — OLAP, ranking/window queries, dashboard pages</sub>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Oh-Jisong/php-mysql-order-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=php-mysql-order-system&theme=github_dark&hide_border=true" />
+      </a>
+      <br/>
+      <sub>Order CRUD workflow + relational DB design — query optimization practice & PHP-MySQL integration</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Oh-Jisong/Linux-project_Rule-based-chatbot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=Linux-project_Rule-based-chatbot&theme=github_dark&hide_border=true" />
+      </a>
+      <br/>
+      <sub>Linux automation & rule engine — shell-based workflow, system fundamentals</sub>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Oh-Jisong/Olist-From-First-Purchase-to-Loyalty">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=Olist-From-First-Purchase-to-Loyalty&theme=github_dark&hide_border=true" />
+      </a>
+      
+      <br/>
+      <sub>Customer loyalty analysis pipeline — cohort/retention thinking + data preprocessing</sub>
+    </td>
+  </tr>
+</table>
 
----
-
-### Links
-
-<p align="left">
-  <a href="https://github.com/Oh-Jisong">
-    <img src="https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.acmicpc.net/user/okjss9872">
-    <img src="https://img.shields.io/badge/Baekjoon-0b0f14?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://solved.ac/okjss9872">
-    <img src="https://img.shields.io/badge/Solved.ac-0b0f14?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://school.programmers.co.kr/users/ssongzzange">
-    <img src="https://img.shields.io/badge/Programmers-0b0f14?style=for-the-badge&logo=probot&logoColor=white"/>
-  </a>
-  <a href="https://www.notion.so/Portfolio-1-2f1800434d5381a593bae579ac28ece6?source=copy_link">
-    <img src="https://img.shields.io/badge/Portfolio-0b0f14?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
+<p>
+<b>Pin 추천(프로필 상단 6개)</b>:  
+V-League / php-mysql-order-system / Linux-chatbot / Olist + (추가 2개는) 코테/SQL 풀이 레포 1개 + Infra-Labs(도커/AWS/리눅스) 레포 1개 만들면 “6개 꽉” 채우면서 취업용 밸런스 완벽해짐.
 </p>
 
 ---
 
-### Algorithm & Problem Solving
+## Algorithm & Problem Solving
 
 <p align="left">
   <a href="https://solved.ac/okjss9872">
@@ -73,15 +114,15 @@ Backend Engineer focused on production-ready systems, security-aware backend des
 
 <p align="left">
   <a href="https://school.programmers.co.kr/users/ssongzzange">
-    <img src="https://img.shields.io/badge/Programmers-ssongzzange-111827?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Programmers-ssongzzange-0b0f14?style=for-the-badge&logo=programming&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/SQL-Practice-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CodingTest-Active-16a34a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-Practice-0b0f14?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CodingTest-Active-16a34a?style=for-the-badge" />
 </p>
 
 ---
 
-### Activity
+## Activity
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oh-Jisong&theme=github_dark" />
 
@@ -91,21 +132,22 @@ Backend Engineer focused on production-ready systems, security-aware backend des
 
 <br/>
 
+<!-- 안정형: readme-stats는 가끔 rate limit이 떠서, stats는 summary-cards로 대체 -->
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Oh-Jisong&show_icons=true&hide_border=true&theme=transparent&count_private=true&include_all_commits=true" height="160"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oh-Jisong&theme=github_dark" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-Jisong&layout=compact&hide_border=true&theme=transparent&hide=jupyter%20notebook" height="160"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oh-Jisong&theme=github_dark" />
     </td>
   </tr>
 </table>
 
 ---
 
-### Now
+## Now
 
-- Building backend projects with stronger system design & SQL optimization
-- Practicing coding interviews (Baekjoon) and SQL problems (Programmers)
-- Improving Linux fundamentals and cloud tooling for production environments
+- Backend projects focusing on system design, DB modeling, and SQL optimization
+- Problem solving (Baekjoon) + SQL practice (Programmers)
+- Strengthening Linux/Cloud fundamentals for production environments
