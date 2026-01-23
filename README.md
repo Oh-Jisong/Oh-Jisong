@@ -84,7 +84,6 @@ Backend Engineer focused on production-ready systems, security-aware backend des
 
 <img src="https://github-readme-stats.vercel.app/api?username=Oh-Jisong&show_icons=true&hide_border=true&theme=transparent" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-Jisong&layout=compact&hide_border=true&theme=transparent" height="150"/>
-<img src="https://streak-stats.demolab.com?user=Oh-Jisong&theme=dark&hide_border=true" height="150"/>
 
 ---
 
