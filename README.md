@@ -160,9 +160,9 @@ Production-ready backend systems · Security-aware design · Cloud/Infra fundame
 
 <p align="left">
   <a href="mailto:dhwlthd4725@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-0b0f14?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-0b0f14?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ohjisong-a5048637a/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-0b0f14?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0b0f14?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
