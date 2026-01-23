@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=110&section=header&text=Jisong%20Oh%20%7C%20Backend%20Engineer%20-%20Security%20%26%20Cloud&fontSize=22&fontColor=e5e7eb"/>
+<img src="./assets/banner.svg" alt="banner" width="100%"/>
 
 <br/>
 
