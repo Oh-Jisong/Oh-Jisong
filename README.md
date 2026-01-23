@@ -1,47 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:2563eb&height=120&section=header&text=Jisong%20Oh&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=110&section=header&text=Jisong%20Oh%20|%20Backend%20Engineer%20%C2%B7%20Security%20%26%20Cloud&fontSize=22&fontColor=e5e7eb"/>
 
 <br/>
 
-### Backend · Data · Security-Oriented Developer  
-Building data-driven systems and scalable backend services.
+Backend & Data-focused Developer  
+Interested in building reliable systems and scalable infrastructure.
 
 <br/>
 
 ---
 
-## 🔗 Links
-[GitHub](https://github.com/Oh-Jisong) ·  
-Baekjoon: https://www.acmicpc.net/user/okjss9872
+## Links
+<a href="https://github.com/Oh-Jisong">GitHub</a> ·
+<a href="https://www.acmicpc.net/user/okjss9872">Baekjoon</a> ·
+<a href="https://solved.ac/okjss9872">Solved.ac</a>
 
 ---
 
-## 🧩 Tech Stack
-
+## Tech Stack
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,nodejs,php,spring,mysql,git,github,linux,docker,aws&perline=7" />
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
-|-------|--------|------|
-| [Olist Customer Loyalty Analysis](https://github.com/Oh-Jisong/Olist-From-First-Purchase-to-Loyalty) | E-commerce customer behavior & retention data analysis | Python · Pandas · ML |
-| [V-League Scouting Platform](https://github.com/Oh-Jisong/V-League-Volleyball-Scouting-Analytics-Platform) | Sports analytics web platform with database-driven insights | PHP · MySQL · SQL |
-| [Linux Rule-based Chatbot](https://github.com/Oh-Jisong/Linux-project_Rule-based-chatbot) | Linux server-based chatbot automation project | Linux · Bash · System |
-| [Order Management System](https://github.com/Oh-Jisong/php-mysql-order-system) | Order CRUD & DB-driven web system | PHP · MySQL |
+|---|---|---|
+| [Olist Customer Loyalty Analysis](https://github.com/Oh-Jisong/Olist-From-First-Purchase-to-Loyalty) | E-commerce customer behavior analysis and retention insights pipeline | Python · Pandas · ML |
+| [V-League Volleyball Scouting & Analytics Platform](https://github.com/Oh-Jisong/V-League-Volleyball-Scouting-Analytics-Platform) | Database-driven scouting/analytics web platform with advanced SQL | PHP · MySQL · SQL |
+| [Linux Rule-based Chatbot](https://github.com/Oh-Jisong/Linux-project_Rule-based-chatbot) | Linux environment chatbot automation with rule-based flow | Linux · Bash |
+| [PHP-MySQL Order System](https://github.com/Oh-Jisong/php-mysql-order-system) | Order CRUD web system focusing on DB design and query workflow | PHP · MySQL |
 
 ---
 
-## 🏆 Algorithm (Baekjoon)
-
+## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okjss9872)](https://solved.ac/okjss9872)
 
 ---
 
-## 📊 GitHub Activity
-
+## GitHub Activity
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oh-Jisong&theme=github"/>
 
 <br/>
@@ -51,12 +49,9 @@ Baekjoon: https://www.acmicpc.net/user/okjss9872
 
 ---
 
-## 📝 Now
-
-- Practicing algorithm problems (Baekjoon / Coding Test)
-- Strengthening SQL & backend system design
-- Building portfolio-level backend projects
-
----
+## Now
+- Practicing coding interview problems (Baekjoon / SQL)
+- Strengthening backend system design and query optimization
+- Improving Linux and cloud fundamentals for production environments
 
 </div>
