@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Oh-Jisong/Oh-Jisong/main/assets/banner.svg?v=6" alt="banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/Oh-Jisong/Oh-Jisong/main/assets/banner.svg?v=7" alt="banner" width="100%"/>
 
 <br/>
 
-<h3>Backend · Security · Cloud</h3>
+<h2>Backend · Security · Cloud</h2>
 
 <p>
 Production-ready backend systems · Security-aware design · Cloud/Infra fundamentals
@@ -15,22 +15,22 @@ Production-ready backend systems · Security-aware design · Cloud/Infra fundame
 <b>Education</b> | Ewha Womans University — B.S. Candidate, Cybersecurity (Expected Graduation)
 </p>
 
-<!-- Quick links (icon-only, no 403) -->
+<!-- Links (stable: shields.io only) -->
 <p>
   <a href="https://github.com/Oh-Jisong" target="_blank">
-    <img height="34" src="https://cdn.simpleicons.org/github/ffffff" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://www.acmicpc.net/user/okjss9872" target="_blank">
-    <img height="34" src="https://cdn.simpleicons.org/baekjoon/ffffff" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Baekjoon-0b0f14?style=for-the-badge&logoColor=white" />
+  </a>
   <a href="https://solved.ac/okjss9872" target="_blank">
-    <img height="34" src="https://cdn.simpleicons.org/svelte/ffffff" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Solved.ac-0b0f14?style=for-the-badge&logoColor=white" />
+  </a>
   <a href="https://school.programmers.co.kr/users/ssongzzange" target="_blank">
-    <img height="34" src="https://cdn.simpleicons.org/codesandbox/ffffff" />
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Programmers-0b0f14?style=for-the-badge&logoColor=white" />
+  </a>
   <a href="https://www.notion.so/Portfolio-1-2f1800434d5381a593bae579ac28ece6?source=copy_link" target="_blank">
-    <img height="34" src="https://cdn.simpleicons.org/notion/ffffff" />
+    <img src="https://img.shields.io/badge/Portfolio-0b0f14?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </p>
 
@@ -54,67 +54,67 @@ Production-ready backend systems · Security-aware design · Cloud/Infra fundame
 
 **Security & Dev Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,bash&perline=10" />
-<img src="https://skillicons.dev/icons?i=postman&perline=10" />
+<img src="https://skillicons.dev/icons?i=git,github,bash,postman&perline=10" />
 
 ---
 
-## Featured Projects (card-style)
+## Featured Projects
 
+<!-- 2x2 grid, no table-typical "3-column" vibe -->
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/Oh-Jisong/V-League-Volleyball-Scouting-Analytics-Platform">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=V-League-Volleyball-Scouting-Analytics-Platform&theme=github_dark&hide_border=true" />
       </a>
       <br/>
-      <sub>Analytics backend & SQL-driven service (PHP/MySQL) — OLAP, ranking/window queries, dashboard pages</sub>
+      <sub><b>Analytics Backend</b> · SQL-driven service (OLAP/ranking/window) + dashboard pages</sub>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/Oh-Jisong/php-mysql-order-system">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=php-mysql-order-system&theme=github_dark&hide_border=true" />
       </a>
       <br/>
-      <sub>Order CRUD workflow + relational DB design — query optimization practice & PHP-MySQL integration</sub>
+      <sub><b>DB CRUD System</b> · Order workflow + relational design + query optimization practice</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/Oh-Jisong/Linux-project_Rule-based-chatbot">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=Linux-project_Rule-based-chatbot&theme=github_dark&hide_border=true" />
       </a>
       <br/>
-      <sub>Linux automation & rule engine — shell-based workflow, system fundamentals</sub>
+      <sub><b>Linux Automation</b> · Rule-based chatbot + shell workflow + system fundamentals</sub>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/Oh-Jisong/Olist-From-First-Purchase-to-Loyalty">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=Olist-From-First-Purchase-to-Loyalty&theme=github_dark&hide_border=true" />
       </a>
-      
       <br/>
-      <sub>Customer loyalty analysis pipeline — cohort/retention thinking + data preprocessing</sub>
+      <sub><b>Data Pipeline</b> · Cohort/retention analysis + preprocessing + modeling direction</sub>
     </td>
   </tr>
 </table>
 
 <p>
-<b>Pin 추천(프로필 상단 6개)</b>:  
-V-League / php-mysql-order-system / Linux-chatbot / Olist + (추가 2개는) 코테/SQL 풀이 레포 1개 + Infra-Labs(도커/AWS/리눅스) 레포 1개 만들면 “6개 꽉” 채우면서 취업용 밸런스 완벽해짐.
+<b>Pin 추천(프로필 상단 6개)</b>:
+V-League / php-mysql-order-system / Linux-chatbot / Olist +
+(추가 2개는) <b>Algorithms</b> 레포 1개 + <b>Infra-Labs</b> 레포 1개
 </p>
 
 ---
 
 ## Algorithm & Problem Solving
 
-<p align="left">
+<p>
   <a href="https://solved.ac/okjss9872">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=okjss9872" width="300"/>
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=okjss9872" width="300" />
   </a>
 </p>
 
-<p align="left">
+<p>
   <a href="https://school.programmers.co.kr/users/ssongzzange">
-    <img src="https://img.shields.io/badge/Programmers-ssongzzange-0b0f14?style=for-the-badge&logo=programming&logoColor=white" />
+    <img src="https://img.shields.io/badge/Programmers-ssongzzange-0b0f14?style=for-the-badge" />
   </a>
   <img src="https://img.shields.io/badge/SQL-Practice-0b0f14?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CodingTest-Active-16a34a?style=for-the-badge" />
@@ -124,22 +124,24 @@ V-League / php-mysql-order-system / Linux-chatbot / Olist + (추가 2개는) 코
 
 ## Activity
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oh-Jisong&theme=github_dark" />
+<!-- hero activity card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oh-Jisong&theme=github_dark&v=20260123" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Oh-Jisong&theme=dark&hide_border=true&background=05070A&ring=22C55E&fire=22C55E&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=6B7280&v=20260123" height="150"/>
+<!-- streak tone matched -->
+<img src="https://streak-stats.demolab.com?user=Oh-Jisong&theme=dark&hide_border=true&background=05070A&ring=2563EB&fire=22C55E&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=6B7280&v=20260123" height="160"/>
 
 <br/>
 
-<!-- 안정형: readme-stats는 가끔 rate limit이 떠서, stats는 summary-cards로 대체 -->
+<!-- stable two cards in one row (no broken icon block) -->
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oh-Jisong&theme=github_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oh-Jisong&theme=github_dark&v=20260123" />
     </td>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oh-Jisong&theme=github_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oh-Jisong&theme=github_dark&v=20260123" />
     </td>
   </tr>
 </table>
@@ -148,6 +150,6 @@ V-League / php-mysql-order-system / Linux-chatbot / Olist + (추가 2개는) 코
 
 ## Now
 
-- Backend projects focusing on system design, DB modeling, and SQL optimization
-- Problem solving (Baekjoon) + SQL practice (Programmers)
+- Backend projects focusing on system design, DB modeling, and SQL optimization  
+- Problem solving (Baekjoon) + SQL practice (Programmers)  
 - Strengthening Linux/Cloud fundamentals for production environments
