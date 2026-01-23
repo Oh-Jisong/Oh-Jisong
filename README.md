@@ -1,12 +1,17 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Oh-Jisong/Oh-Jisong/main/assets/banner.svg?v=4" alt="banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/Oh-Jisong/Oh-Jisong/main/assets/banner.svg?v=5" alt="banner" width="100%"/>
 
 <br/>
 
 Backend Engineer focused on production-ready systems, security-aware backend design, and cloud infrastructure.
 
 <br/>
+
+<p align="center">
+  <b>학력</b> | 이화여자대학교 사이버보안학과 학사 졸업 예정<br/>
+  <b>Education</b> | Ewha Womans University — B.S. Candidate, Cybersecurity (Expected Graduation)
+</p>
 
 </div>
 
@@ -29,10 +34,10 @@ Backend Engineer focused on production-ready systems, security-aware backend des
 
 | Project | Focus | Stack |
 |---|---|---|
-| [Olist Customer Loyalty Analysis](https://github.com/Oh-Jisong/Olist-From-First-Purchase-to-Loyalty) | Customer retention modeling & data pipeline | Python · Pandas · ML |
 | [V-League Volleyball Scouting & Analytics Platform](https://github.com/Oh-Jisong/V-League-Volleyball-Scouting-Analytics-Platform) | Analytics backend & SQL-driven service | PHP · MySQL · SQL |
-| [Linux Rule-based Chatbot](https://github.com/Oh-Jisong/Linux-project_Rule-based-chatbot) | Linux automation & rule engine | Linux · Bash |
 | [PHP-MySQL Order System](https://github.com/Oh-Jisong/php-mysql-order-system) | Order CRUD workflow & relational DB design | PHP · MySQL |
+| [Linux Rule-based Chatbot](https://github.com/Oh-Jisong/Linux-project_Rule-based-chatbot) | Linux automation & rule engine | Linux · Bash |
+| [Olist Customer Loyalty Analysis](https://github.com/Oh-Jisong/Olist-From-First-Purchase-to-Loyalty) | Customer retention modeling & data pipeline | Python · Pandas · ML |
 
 ---
 
@@ -43,7 +48,7 @@ Backend Engineer focused on production-ready systems, security-aware backend des
     <img src="https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.acmicpc.net/user/okjss9872">
-    <img src="https://img.shields.io/badge/Baekjoon-0b0f14?style=for-the-badge&logo=baekjoon&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Baekjoon-0b0f14?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   <a href="https://solved.ac/okjss9872">
     <img src="https://img.shields.io/badge/Solved.ac-0b0f14?style=for-the-badge&logo=codeforces&logoColor=white"/>
@@ -82,12 +87,20 @@ Backend Engineer focused on production-ready systems, security-aware backend des
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Oh-Jisong&theme=github-dark&hide_border=true&v=20260123" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Oh-Jisong&show_icons=true&hide_border=true&theme=transparent" height="150"/>
+<img src="https://streak-stats.demolab.com?user=Oh-Jisong&theme=dark&hide_border=true&background=05070A&ring=22C55E&fire=22C55E&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=6B7280&v=20260123" height="150"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-Jisong&layout=compact&hide_border=true&theme=transparent&hide=jupyter%20notebook" height="150"/>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Oh-Jisong&show_icons=true&hide_border=true&theme=transparent&count_private=true&include_all_commits=true" height="160"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-Jisong&layout=compact&hide_border=true&theme=transparent&hide=jupyter%20notebook" height="160"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
