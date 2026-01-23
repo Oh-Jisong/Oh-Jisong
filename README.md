@@ -87,12 +87,6 @@ Production-ready backend systems · Security-aware design · Cloud/Infra fundame
   </tr>
 </table>
 
-<p>
-<b>Pin 추천(프로필 상단 6개)</b>:
-V-League / php-mysql-order-system / Linux-chatbot / Olist +
-(추가 2개는) <b>Algorithms</b> 레포 1개 + <b>Infra-Labs</b> 레포 1개
-</p>
-
 ---
 
 ## Algorithm & Problem Solving
