@@ -15,6 +15,16 @@ Production-ready backend systems · Security-aware design · Cloud/Infra fundame
 <b>Education</b> | Ewha Womans University — B.S. Candidate, Cybersecurity (Expected Graduation)
 </p>
 
+<!-- Links (stable: shields.io only) -->
+<p>
+  <a href="https://github.com/Oh-Jisong" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.notion.so/Portfolio-1-2f1800434d5381a593bae579ac28ece6?source=copy_link" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0b0f14?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
 ---
@@ -89,9 +99,6 @@ V-League / php-mysql-order-system / Linux-chatbot / Olist +
 
 <!-- Links (stable: shields.io only) -->
 <p>
-  <a href="https://github.com/Oh-Jisong" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://www.acmicpc.net/user/okjss9872" target="_blank">
     <img src="https://img.shields.io/badge/Baekjoon-0b0f14?style=for-the-badge&logoColor=white" />
   </a>
@@ -100,9 +107,6 @@ V-League / php-mysql-order-system / Linux-chatbot / Olist +
   </a>
   <a href="https://school.programmers.co.kr/users/ssongzzange" target="_blank">
     <img src="https://img.shields.io/badge/Programmers-0b0f14?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://www.notion.so/Portfolio-1-2f1800434d5381a593bae579ac28ece6?source=copy_link" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0b0f14?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </p>
 
