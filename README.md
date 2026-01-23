@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=110&section=header&text=Jisong%20Oh%20|%20Backend%20Engineer%20%C2%B7%20Security%20%26%20Cloud&fontSize=22&fontColor=e5e7eb"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=110&section=header&text=Jisong%20Oh%20%7C%20Backend%20Engineer%20-%20Security%20%26%20Cloud&fontSize=22&fontColor=e5e7eb"/>
 
 <br/>
 
@@ -35,17 +35,17 @@ Interested in building reliable systems and scalable infrastructure.
 ---
 
 ## Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okjss9872)](https://solved.ac/okjss9872)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=okjss9872)](https://solved.ac/okjss9872)
 
 ---
 
 ## GitHub Activity
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oh-Jisong&theme=github"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oh-Jisong&theme=default"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Oh-Jisong&show_icons=true&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-Jisong&layout=compact&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Oh-Jisong&show_icons=true&hide_border=true&theme=default" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oh-Jisong&layout=compact&hide_border=true&theme=default" height="150"/>
 
 ---
 
