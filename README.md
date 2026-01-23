@@ -106,18 +106,22 @@ V-League / php-mysql-order-system / Linux-chatbot / Olist +
 
 ## Algorithm & Problem Solving
 
-<p>
-  <a href="https://solved.ac/okjss9872">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=okjss9872" width="300" />
+<p align="left">
+  <a href="https://solved.ac/profile/okjss9872" target="_blank" rel="noopener noreferrer">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=okjss9872" width="320" />
   </a>
 </p>
 
-<p>
-  <a href="https://school.programmers.co.kr/users/ssongzzange">
-    <img src="https://img.shields.io/badge/Programmers-ssongzzange-0b0f14?style=for-the-badge" />
+<p align="left">
+  <a href="https://school.programmers.co.kr/users/ssongzzange" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PROGRAMMERS-SSONGZZANGE-0b0f14?style=for-the-badge" />
   </a>
-  <img src="https://img.shields.io/badge/SQL-Practice-0b0f14?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CodingTest-Active-16a34a?style=for-the-badge" />
+  <a href="https://school.programmers.co.kr/learn/challenges?tab=sql_practice" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/SQL-PRACTICE-0b0f14?style=for-the-badge" />
+  </a>
+  <a href="https://www.acmicpc.net/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CODINGTEST-ACTIVE-16a34a?style=for-the-badge" />
+  </a>
 </p>
 
 ---
