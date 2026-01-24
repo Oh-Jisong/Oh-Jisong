@@ -50,20 +50,25 @@ Production-ready backend systems · Security-aware design · Cloud/Infra fundame
 ---
 
 ## Featured Projects
-<!-- 2x2 grid, no table-typical "3-column" vibe -->
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/Oh-Jisong/V-League-Volleyball-Scouting-Analytics-Platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=V-League-Volleyball-Scouting-Analytics-Platform&theme=github_dark&hide_border=true&hide=description" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=V-League-Volleyball-Scouting-Analytics-Platform&theme=github_dark&hide_border=true&hide=description"
+          width="100%"
+        />
       </a>
       <br/>
       <sub><b>Analytics Backend</b> · SQL-driven service (OLAP/ranking/window) + dashboard pages</sub>
     </td>
 
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/Oh-Jisong/php-mysql-order-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=php-mysql-order-system&theme=github_dark&hide_border=true&hide=description" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=php-mysql-order-system&theme=github_dark&hide_border=true&hide=description"
+          width="100%"
+        />
       </a>
       <br/>
       <sub><b>DB CRUD System</b> · Order workflow + relational design + query optimization practice</sub>
@@ -71,17 +76,23 @@ Production-ready backend systems · Security-aware design · Cloud/Infra fundame
   </tr>
 
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/Oh-Jisong/Linux-project_Rule-based-chatbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=Linux-project_Rule-based-chatbot&theme=github_dark&hide_border=true&hide=description" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=Linux-project_Rule-based-chatbot&theme=github_dark&hide_border=true&hide=description"
+          width="100%"
+        />
       </a>
       <br/>
       <sub><b>Linux Automation</b> · Rule-based chatbot + shell workflow + system fundamentals</sub>
     </td>
 
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/Oh-Jisong/Olist-From-First-Purchase-to-Loyalty">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=Olist-From-First-Purchase-to-Loyalty&theme=github_dark&hide_border=true&hide=description" />
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=Olist-From-First-Purchase-to-Loyalty&theme=github_dark&hide_border=true&hide=description"
+          width="100%"
+        />
       </a>
       <br/>
       <sub><b>Data Pipeline</b> · Cohort/retention analysis + preprocessing + modeling direction</sub>
