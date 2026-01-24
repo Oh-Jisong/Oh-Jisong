@@ -51,41 +51,46 @@ Production-ready backend systems · Security-aware design · Cloud/Infra fundame
 
 ## Featured Projects
 
-<!-- 2x2 grid, no table-typical "3-column" vibe -->
+<!-- GitHub OpenGraph cards (stable, no "No description provided") -->
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Oh-Jisong/V-League-Volleyball-Scouting-Analytics-Platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=V-League-Volleyball-Scouting-Analytics-Platform&theme=github_dark&hide_border=true" />
+        <img src="https://opengraph.githubassets.com/1/Oh-Jisong/V-League-Volleyball-Scouting-Analytics-Platform" alt="V-League Volleyball Scouting & Analytics Platform"/>
       </a>
       <br/>
       <sub><b>Analytics Backend</b> · SQL-driven service (OLAP/ranking/window) + dashboard pages</sub>
     </td>
+
     <td width="50%" valign="top">
       <a href="https://github.com/Oh-Jisong/php-mysql-order-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=php-mysql-order-system&theme=github_dark&hide_border=true" />
+        <img src="https://opengraph.githubassets.com/1/Oh-Jisong/php-mysql-order-system" alt="PHP-MySQL Order System"/>
       </a>
       <br/>
-      <sub><b>DB CRUD System</b> · Order workflow + relational design + query optimization practice</sub>
+      <sub><b>DB CRUD System</b> · Order workflow + relational DB design + query optimization practice</sub>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Oh-Jisong/Linux-project_Rule-based-chatbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=Linux-project_Rule-based-chatbot&theme=github_dark&hide_border=true" />
+        <img src="https://opengraph.githubassets.com/1/Oh-Jisong/Linux-project_Rule-based-chatbot" alt="Linux Rule-based Chatbot"/>
       </a>
       <br/>
       <sub><b>Linux Automation</b> · Rule-based chatbot + shell workflow + system fundamentals</sub>
     </td>
+
     <td width="50%" valign="top">
       <a href="https://github.com/Oh-Jisong/Olist-From-First-Purchase-to-Loyalty">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=Olist-From-First-Purchase-to-Loyalty&theme=github_dark&hide_border=true" />
+        <img src="https://opengraph.githubassets.com/1/Oh-Jisong/Olist-From-First-Purchase-to-Loyalty" alt="Olist Customer Loyalty Analysis"/>
       </a>
       <br/>
       <sub><b>Data Pipeline</b> · Cohort/retention analysis + preprocessing + modeling direction</sub>
     </td>
   </tr>
 </table>
+
+<!-- tip: OG images are cached by GitHub; if you update repo description/title, it may take some time to refresh -->
 
 ---
 
