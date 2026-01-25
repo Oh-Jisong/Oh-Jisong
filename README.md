@@ -89,22 +89,11 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 기본 인프라 아키텍�
 </p>
 
 <img src="https://skillicons.dev/icons?i=linux,bash&perline=10" />
-
-<br/><br/>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/IDA-0b0f14?style=for-the-badge&labelColor=0b0f14" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/x64dbg-0b0f14?style=for-the-badge&labelColor=0b0f14" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/ImmunityDbg-0b0f14?style=for-the-badge&labelColor=0b0f14" />
-    </td>
-  </tr>
-</table>
+<br/>
+<!-- Reverse Engineering Tools -->
+<img src="https://img.shields.io/badge/IDA%20Pro-0b0f14?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/x64dbg-0b0f14?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Immunity%20Debugger-0b0f14?style=for-the-badge&logoColor=white" />
 </div>
 
 
