@@ -6,11 +6,13 @@
 </p>
 <!-- VISITOR-COUNT:END -->
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Oh-Jisong&label=PROFILE%20VIEWS&color=0b0f14&style=for-the-badge" />
 </p>
 
 <br/>
+-->
 
 <h2>Backend · Security · Cloud</h2>
 
