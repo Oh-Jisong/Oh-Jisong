@@ -90,9 +90,6 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 기본 인프라 아키텍�
 
 <!-- Environment / Base -->
 <img src="https://skillicons.dev/icons?i=linux,bash&perline=10" />
-
-<br/><br/>
-
 <!-- Reverse Engineering Tools -->
 <img src="https://img.shields.io/badge/IDA%20Pro-0b0f14?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/x64dbg-0b0f14?style=for-the-badge&logoColor=white" />
