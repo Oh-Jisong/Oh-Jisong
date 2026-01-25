@@ -200,14 +200,14 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 기본 인프라 아키텍�
 ## Activity
 
 <!-- hero activity card -->
-<p align="center">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oh-Jisong&theme=github_dark&v=20260123" />
 </p>
 
 <br/>
 
 <!-- streak + stats row (no table) -->
-<p align="center">
+<p>
   <img
     src="https://streak-stats.demolab.com?user=Oh-Jisong&theme=dark&hide_border=true&background=05070A&ring=2563EB&fire=22C55E&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=6B7280&v=20260125"
     width="49%"
@@ -222,7 +222,7 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 기본 인프라 아키텍�
 <br/>
 
 <!-- bottom summary cards -->
-<table align="center">
+<table>
   <tr>
     <td width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oh-Jisong&theme=github_dark&v=20260123" />
