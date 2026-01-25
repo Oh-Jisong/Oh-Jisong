@@ -4,6 +4,14 @@
 
 <br/>
 
+<p align="center">
+  <a href="https://github.com/gjbae1212/hit-counter" target="_blank" rel="noopener noreferrer">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOh-Jisong&count_bg=%230b0f14&title_bg=%230b0f14&icon=github.svg&icon_color=%23ffffff&title=Today%20%2F%20Total&edge_flat=true"/>
+  </a>
+</p>
+
+<br/>
+
 <h2>Backend · Security · Cloud</h2>
 
 <p>
