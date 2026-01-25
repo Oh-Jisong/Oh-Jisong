@@ -204,10 +204,25 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 기본 인프라 아키텍�
 
 <br/>
 
-<!-- streak tone matched -->
-<img src="https://streak-stats.demolab.com?user=Oh-Jisong&theme=dark&hide_border=true&background=05070A&ring=2563EB&fire=22C55E&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=6B7280&v=20260123" height="160"/>
+<!-- streak + stats row -->
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        src="https://streak-stats.demolab.com?user=Oh-Jisong&theme=dark&hide_border=true&background=05070A&ring=2563EB&fire=22C55E&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=6B7280&v=20260125"
+        width="100%"
+      />
+    </td>
 
-<br/>
+    <td width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Oh-Jisong&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&v=20260125"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
 
 <!-- stable two cards in one row (no broken icon block) -->
 <table>
