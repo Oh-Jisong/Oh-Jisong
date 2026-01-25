@@ -54,21 +54,52 @@ Scalable APIs · Database-driven architecture · Cloud-native fundamentals
 
 ## Tech Stack
 
-**Backend & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,php,spring,mysql&perline=10" />
+<div align="center">
+<p>
+<b>프로젝트 및 실습 기반으로 실제 사용 경험이 있는 기술 스택</b>을 중심으로 구성했습니다.
+</p>
+</div>
 
 <br/>
 
-**Cloud & Infra**
+<div align="center">
+<h3>Backend & Data</h3>
+<p>
+API 개발 · DB 설계 및 쿼리 최적화 · 서비스 로직 구현
+</p>
+<img src="https://skillicons.dev/icons?i=python,java,php,spring,mysql,redis&perline=10" />
+</div>
+
 <br/>
+
+<div align="center">
+<h3>Cloud & Infra</h3>
+<p>
+Linux 환경 구성 · 컨테이너 기반 배포 · 기본 인프라 아키텍처 이해
+</p>
 <img src="https://skillicons.dev/icons?i=linux,docker,aws,nginx&perline=10" />
+</div>
 
 <br/>
 
-**Security & Dev Tools**
+<div align="center">
+<h3>Security</h3>
+<p>
+보안 관점의 시스템 설계 · 기본 취약점 대응 · 안전한 서비스 구성
+</p>
+<img src="https://skillicons.dev/icons?i=linux,bash&perline=10" />
+</div>
+
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,bash,postman&perline=10" />
+
+<div align="center">
+<h3>Dev Tools</h3>
+<p>
+버전 관리 · 협업 워크플로우 · API 테스트 · 자동화 환경 구성
+</p>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman&perline=10" />
+</div>
+
 
 ---
 
