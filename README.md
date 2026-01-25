@@ -1,13 +1,14 @@
 <img src="https://raw.githubusercontent.com/Oh-Jisong/Oh-Jisong/main/assets/banner.svg?v=7" alt="banner" width="100%"/>
 
+<!-- VISITOR-COUNT:START -->
+<p align="center">
+  <b>Today:</b> 0 &nbsp;&nbsp; | &nbsp;&nbsp; <b>Total:</b> 0
+</p>
+<!-- VISITOR-COUNT:END -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Oh-Jisong&label=PROFILE%20VIEWS&color=0b0f14&style=for-the-badge" />
 </p>
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Oh-Jisong&title=Today%20/%20Total&icon=github&icon_color=ffffff&count_bg=0b0f14&title_bg=0b0f14&edge_flat=true&v=20260125" />
-</p>
-
 
 <br/>
 
