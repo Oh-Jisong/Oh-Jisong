@@ -1,5 +1,8 @@
 name: Update Visitor Counter
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "*/30 * * * *"
@@ -8,18 +11,14 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v3
-
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
-
       - name: Run counter script
         run: python update_visitors.py
-
       - name: Commit changes
         run: |
           git config --global user.name "github-actions"
