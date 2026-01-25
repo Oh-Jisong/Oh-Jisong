@@ -32,7 +32,8 @@ Scalable APIs · Database-driven architecture · Cloud-native fundamentals
 
 <p>
 🎓 <b>Ewha Womans University</b> — B.S. Candidate in Cybersecurity<br/>
-이화여자대학교 사이버보안학과 재학 · 실서비스 환경을 고려한 백엔드 아키텍처와 데이터 기반 시스템 설계에 집중하고 있습니다.
+이화여자대학교 사이버보안학과 재학<br/>
+실서비스 환경을 고려한 백엔드 아키텍처와 데이터 기반 시스템 설계에 집중하고 있습니다.
 </p>
 
 <br/>
