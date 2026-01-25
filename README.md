@@ -2,7 +2,7 @@
 
 <!-- VISITOR-COUNT:START -->
 <p align="center">
-  <b>Today:</b> 0 &nbsp;&nbsp; | &nbsp;&nbsp; <b>Total:</b> 0
+  <b>Today:</b> 1 &nbsp;&nbsp; | &nbsp;&nbsp; <b>Total:</b> 1
 </p>
 <!-- VISITOR-COUNT:END -->
 
