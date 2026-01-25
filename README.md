@@ -17,27 +17,26 @@
 
 <h2>Backend · Security · Cloud</h2>
 
-
 <p>
-Production-ready backend systems · Security-aware design · Cloud/Infra fundamentals
+<b>Building production-grade backend systems with security-first thinking.</b><br/>
+<b>보안 중심 사고로 확장 가능한 백엔드 시스템을 설계합니다.</b><br/>
+Scalable APIs · Database-driven architecture · Cloud-native fundamentals
 </p>
 
 <p>
-<b>학력</b> | 이화여자대학교 사이버보안학과 학사 졸업 예정<br/>
-<b>Education</b> | Ewha Womans University — B.S. Candidate, Cybersecurity (Expected Graduation)
+🎓 <b>Ewha Womans University</b> — B.S. Candidate in Cybersecurity<br/>
+이화여자대학교 사이버보안학과 재학 · 백엔드 시스템, 데이터 기반 서비스, 안전한 아키텍처 설계에 집중하고 있습니다.
 </p>
 
-<!-- Links (stable: shields.io only) -->
 <p>
-  <a href="https://github.com/Oh-Jisong" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.notion.so/Portfolio-1-2f1800434d5381a593bae579ac28ece6?source=copy_link" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0b0f14?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>
+<a href="https://github.com/Oh-Jisong" target="_blank">
+  <img src="https://img.shields.io/badge/View%20GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.notion.so/Portfolio-1-2f1800434d5381a593bae579ac28ece6?source=copy_link" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Portfolio-0b0f14?style=for-the-badge&logo=notion&logoColor=white" />
+</a>
 </p>
 
-</div>
 
 ---
 
