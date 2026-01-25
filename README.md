@@ -2,7 +2,8 @@
 
 <!-- VISITOR-COUNT:START -->
 <p align="center">
-  <b>Today:</b> 1 &nbsp;&nbsp; | &nbsp;&nbsp; <b>Total:</b> 1
+  <img src="https://img.shields.io/badge/%F0%9F%91%81%20TODAY-2-16a34a?style=for-the-badge" alt="today views" />
+  <img src="https://img.shields.io/badge/%E2%88%91%20TOTAL-2-0b0f14?style=for-the-badge" alt="total views" />
 </p>
 <!-- VISITOR-COUNT:END -->
 
