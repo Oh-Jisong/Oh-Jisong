@@ -213,9 +213,10 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 기본 인프라 아키텍�
     width="49%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Oh-Jisong&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&v=20260125"
-    width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=Oh-Jisong&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600"
+  width="49%"
     />
+
 </p>
 
 <br/>
