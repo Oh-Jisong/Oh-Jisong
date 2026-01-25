@@ -15,28 +15,39 @@
 <br/>
 -->
 
+<div align="center">
+
 <h2>Backend · Security · Cloud</h2>
 
 <p>
 <b>Building production-grade backend systems with security-first thinking.</b><br/>
-<b>보안 중심 사고로 확장 가능한 백엔드 시스템을 설계합니다.</b><br/>
-Scalable APIs · Database-driven architecture · Cloud-native fundamentals
+<b>보안과 확장성을 동시에 고려한 백엔드 시스템을 개발합니다.</b>
 </p>
 
 <p>
-🎓 <b>Ewha Womans University</b> — B.S. Candidate in Cybersecurity<br/>
-이화여자대학교 사이버보안학과 재학 · 백엔드 시스템, 데이터 기반 서비스, 안전한 아키텍처 설계에 집중하고 있습니다.
+Scalable APIs · Database-driven architecture · Cloud-native fundamentals
 </p>
+
+<br/>
+
+<p>
+🎓 <b>Ewha Womans University</b> — B.S. Candidate in Cybersecurity<br/>
+이화여자대학교 사이버보안학과 재학 · 실서비스 환경을 고려한 백엔드 아키텍처와 데이터 기반 시스템 설계에 집중하고 있습니다.
+</p>
+
+<br/>
 
 <p>
 <a href="https://github.com/Oh-Jisong" target="_blank">
   <img src="https://img.shields.io/badge/View%20GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://www.notion.so/Portfolio-1-2f1800434d5381a593bae579ac28ece6?source=copy_link" target="_blank">
   <img src="https://img.shields.io/badge/View%20Portfolio-0b0f14?style=for-the-badge&logo=notion&logoColor=white" />
 </a>
 </p>
 
+</div>
 
 ---
 
