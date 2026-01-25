@@ -2,12 +2,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Oh-Jisong&label=PROFILE%20VIEWS&color=0b0f14&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Oh-Jisong/V-League-Volleyball-Scouting-Analytics-Platform?style=for-the-badge&color=0b0f14&label=Stars" />
 </p>
 
 <p align="center">
-  <img src="https://api.star-history.com/svg?repos=Oh-Jisong/V-League-Volleyball-Scouting-Analytics-Platform,Oh-Jisong/php-mysql-order-system,Oh-Jisong/Linux-project_Rule-based-chatbot,Oh-Jisong/Olist-From-First-Purchase-to-Loyalty&type=Date" alt="Star History Chart" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Oh-Jisong&title=Today%20/%20Total&icon=github&icon_color=ffffff&count_bg=0b0f14&title_bg=0b0f14&edge_flat=true&v=20260125" />
 </p>
+
 
 <br/>
 
