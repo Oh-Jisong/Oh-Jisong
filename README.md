@@ -1,22 +1,18 @@
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/Oh-Jisong/Oh-Jisong/main/assets/banner.svg?v=7" alt="banner" width="100%"/>
 
-<br/>
-
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/Oh-Jisong&title=Today%20/%20Total&count_bg=0b0f14&title_bg=0b0f14&icon=github&icon_color=ffffff"/>
+  <img src="https://komarev.com/ghpvc/?username=Oh-Jisong&label=PROFILE%20VIEWS&color=0b0f14&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Oh-Jisong/V-League-Volleyball-Scouting-Analytics-Platform?style=for-the-badge&color=0b0f14&label=Stars" />
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/Oh-Jisong&title=Today%20/%20Total&count_bg=0b0f14&title_bg=0b0f14&icon=github&icon_color=ffffff"/>
+  <img src="https://api.star-history.com/svg?repos=Oh-Jisong/V-League-Volleyball-Scouting-Analytics-Platform,Oh-Jisong/php-mysql-order-system,Oh-Jisong/Linux-project_Rule-based-chatbot,Oh-Jisong/Olist-From-First-Purchase-to-Loyalty&type=Date" alt="Star History Chart" />
 </p>
 
 <br/>
 
 <h2>Backend · Security · Cloud</h2>
+
 
 <p>
 Production-ready backend systems · Security-aware design · Cloud/Infra fundamentals
