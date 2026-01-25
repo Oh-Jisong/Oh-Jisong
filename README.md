@@ -88,14 +88,25 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 기본 인프라 아키텍�
 보안 요구사항을 고려한 시스템 설계 · 리버스 엔지니어링 기초 분석 · 디버깅 기반 동작 분석
 </p>
 
-<!-- Environment / Base -->
 <img src="https://skillicons.dev/icons?i=linux,bash&perline=10" />
-<!-- Reverse Engineering Tools -->
-<img src="https://img.shields.io/badge/IDA%20Pro-0b0f14?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/x64dbg-0b0f14?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Immunity%20Debugger-0b0f14?style=for-the-badge&logoColor=white" />
 
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/IDA-0b0f14?style=for-the-badge&labelColor=0b0f14" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/x64dbg-0b0f14?style=for-the-badge&labelColor=0b0f14" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ImmunityDbg-0b0f14?style=for-the-badge&labelColor=0b0f14" />
+    </td>
+  </tr>
+</table>
 </div>
+
 
 <br/>
 
