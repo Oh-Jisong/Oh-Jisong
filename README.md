@@ -85,9 +85,19 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 기본 인프라 아키텍�
 <div align="center">
 <h3>Security</h3>
 <p>
-보안 관점의 시스템 설계 · 기본 취약점 대응 · 안전한 서비스 구성
+보안 요구사항을 고려한 시스템 설계 · 리버스 엔지니어링 기초 분석 · 디버깅 기반 동작 분석
 </p>
+
+<!-- Environment / Base -->
 <img src="https://skillicons.dev/icons?i=linux,bash&perline=10" />
+
+<br/><br/>
+
+<!-- Reverse Engineering Tools -->
+<img src="https://img.shields.io/badge/IDA%20Pro-0b0f14?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/x64dbg-0b0f14?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Immunity%20Debugger-0b0f14?style=for-the-badge&logoColor=white" />
+
 </div>
 
 <br/>
