@@ -200,21 +200,23 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 기본 인프라 아키텍�
 ## Activity
 
 <!-- hero activity card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oh-Jisong&theme=github_dark&v=20260123" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oh-Jisong&theme=github_dark&v=20260123" />
+</p>
 
 <br/>
 
 <!-- streak + stats row -->
-<table>
+<table align="center">
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <img
         src="https://streak-stats.demolab.com?user=Oh-Jisong&theme=dark&hide_border=true&background=05070A&ring=2563EB&fire=22C55E&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=6B7280&v=20260125"
         width="100%"
       />
     </td>
 
-    <td width="50%">
+    <td width="50%" align="center">
       <img
         src="https://github-readme-stats.vercel.app/api?username=Oh-Jisong&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&v=20260125"
         width="100%"
@@ -223,9 +225,10 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 기본 인프라 아키텍�
   </tr>
 </table>
 
+<br/>
 
-<!-- stable two cards in one row (no broken icon block) -->
-<table>
+<!-- bottom summary cards -->
+<table align="center">
   <tr>
     <td width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oh-Jisong&theme=github_dark&v=20260123" />
@@ -235,6 +238,7 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 기본 인프라 아키텍�
     </td>
   </tr>
 </table>
+>
 
 ---
 
