@@ -1,8 +1,12 @@
 <img src="https://raw.githubusercontent.com/Oh-Jisong/Oh-Jisong/main/assets/banner.svg?v=7" alt="banner" width="100%"/>
 
+<!--
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Oh-Jisong&label=PROFILE%20VIEWS&color=0b0f14&style=for-the-badge" />
 </p>
+
+-->
 
 <br/>
 
