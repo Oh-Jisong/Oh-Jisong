@@ -187,7 +187,7 @@ SQLi/XSS/업로드 취약점 등 공격 시나리오를 구현하고 입력 검�
 <p>
   <img src="https://streak-stats.demolab.com?user=Oh-Jisong&theme=dark&hide_border=true" width="49%" />
   <img
-  src="https://github-readme-stats.vercel.app/api?username=Oh-Jisong&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&v=202602011730"
+  src="https://github-readme-stats.vercel.app/api?username=Oh-Jisong&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
   width="49%"
     />
 
