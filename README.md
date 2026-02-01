@@ -103,55 +103,43 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 기본 인프라 아키텍�
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+Pinned repositories highlight my main works. Each project link below is clickable.
 
-<a href="https://github.com/Oh-Jisong/V-League-Volleyball-Scouting-Analytics-Platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=V-League-Volleyball-Scouting-Analytics-Platform&theme=github_dark&hide_border=true&cache_seconds=86400" />
-</a>
+### 1) [V-League-Volleyball-Scouting-Analytics-Platform](https://github.com/Oh-Jisong/V-League-Volleyball-Scouting-Analytics-Platform)
+SQL 기반으로 배구 데이터를 분석하고, 리그/선수 성과를 **대시보드 형태로 탐색**할 수 있도록 구성한 스카우팅 분석 플랫폼입니다.  
+단순 조회가 아니라 **OLAP 관점의 집계/랭킹/윈도우 함수**를 활용해 “의미 있는 지표”가 나오도록 쿼리를 설계했고, 데이터베이스 중심으로 서비스 로직을 구성했습니다.
 
-<br/>
-<sub><b>Analytics Backend</b> · SQL-driven service (OLAP/ranking/window) + dashboard pages</sub>
+- 핵심: OLAP 집계 · 랭킹/윈도우 함수 · 대시보드 지표 설계 · SQL 중심 분석 백엔드
+- Tech: PHP · MySQL · SQL(OLAP/ranking/window) · Dashboard
 
-</td>
+### 2) [Linux-project_ML-based-chatbot](https://github.com/Oh-Jisong/Linux-project_ML-based-chatbot)
+리눅스 환경에서 반복되는 작업을 줄이기 위해, 사용자의 입력을 해석해 적절한 명령/워크플로우로 연결하는 **자동화 챗봇** 프로젝트입니다.  
+명령 라우팅/실행 흐름을 설계하면서, 실제 운영 환경에서 필요한 **쉘 기반 자동화와 시스템 기초**를 프로젝트 형태로 정리했습니다.
 
-<td width="50%" valign="top">
+- 핵심: rule-based command routing · Linux workflow 자동화 · 시스템 기본기/운영 감각
+- Tech: Linux · Bash/Shell · (프로젝트 내 사용 언어 기준) PHP
 
-<a href="https://github.com/Oh-Jisong/php-mysql-order-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=php-mysql-order-system&theme=github_dark&hide_border=true&cache_seconds=86400" />
-</a>
+### 3) [Olist-From-First-Purchase-to-Loyalty](https://github.com/Oh-Jisong/Olist-From-First-Purchase-to-Loyalty)
+Olist 데이터로 “첫 구매 → 재구매(충성)” 흐름을 분석하고, 낮은 재구매율 문제를 **코호트/리텐션 분석 + 모델링 방향**으로 풀어낸 프로젝트입니다.  
+단순 EDA가 아니라, 재구매를 유도하는 **Gateway Product 가설**을 세우고 이를 검증하기 위한 특징 설계/전처리/모델링 흐름을 구성했습니다.
 
-<br/>
-<sub><b>DB CRUD System</b> · Order workflow + relational design + query optimization practice</sub>
+- 핵심: cohort/retention 분석 · 가설 기반 feature 설계 · 데이터 파이프라인 구성 · 예측 모델링 방향 제시
+- Tech: Python · Pandas · Jupyter Notebook · ML Pipeline
 
-</td>
-</tr>
+### 4) [policy-risk-agent](https://github.com/Oh-Jisong/policy-risk-agent)
+이용약관/개인정보처리방침 같은 정책 문서를 입력하면, 문서를 파싱하고 핵심 조항을 구조화해 **리스크 관점에서 점검**하는 AI Agent 프로젝트입니다.  
+문서 파이프라인(DP → 정제 → 구조화 → 리스크 평가)을 기반으로, 보안 전공 관점에서 “놓치기 쉬운 조항/표현”을 체계적으로 확인할 수 있게 설계했습니다.
 
-<tr>
-<td width="50%" valign="top">
+- 핵심: 문서 파싱/정제 파이프라인 · 정보 구조화(IE) · 정책 리스크 점검 로직
+- Tech: Python · (프로젝트 내 스택 기준) FastAPI/LLM Pipeline
 
-<a href="https://github.com/Oh-Jisong/Linux-project_Rule-based-chatbot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=Linux-project_Rule-based-chatbot&theme=github_dark&hide_border=true&cache_seconds=86400" />
-</a>
+### 5) [vulnerable-web-lab](https://github.com/Oh-Jisong/vulnerable-web-lab)
+PHP/XAMPP 기반으로 웹 취약점을 직접 재현하고, 동일 기능을 **보안 패치 적용 전/후로 비교**할 수 있도록 구성한 실습형 프로젝트입니다.  
+SQLi/XSS/업로드 취약점 등 공격 시나리오를 구현하고, 입력 검증·쿼리 처리·권한/경로 검증 등 관점에서 방어 코드를 적용해 “왜 막히는지”까지 정리했습니다.
 
-<br/>
-<sub><b>Linux Automation</b> · Rule-based chatbot + shell workflow + system fundamentals</sub>
+- 핵심: 취약점 재현 → 패치 → 전후 비교 · 보안 관점 코드 리뷰/개선
+- Tech: PHP · XAMPP · MySQL · Web Security (SQLi/XSS/Upload)
 
-</td>
-
-<td width="50%" valign="top">
-
-<a href="https://github.com/Oh-Jisong/Olist-From-First-Purchase-to-Loyalty">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=Olist-From-First-Purchase-to-Loyalty&theme=github_dark&hide_border=true&cache_seconds=86400" />
-</a>
-
-<br/>
-<sub><b>Data Pipeline</b> · Cohort/retention analysis + preprocessing + modeling direction</sub>
-
-</td>
-</tr>
-</table>
 
 ---
 
