@@ -1,12 +1,10 @@
 <img src="https://raw.githubusercontent.com/Oh-Jisong/Oh-Jisong/main/assets/banner.svg?v=7" alt="banner" width="100%"/>
 
 <!-- VISITOR-COUNT:START -->
-<!--
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%91%81%20TODAY-3-16a34a?style=for-the-badge" alt="today views" />
-  <img src="https://img.shields.io/badge/%E2%88%91%20TOTAL-3-0b0f14?style=for-the-badge" alt="total views" />
+  <img src="https://img.shields.io/badge/%F0%9F%91%81%20TODAY-1-16a34a?style=for-the-badge" alt="today views" />
+  <img src="https://img.shields.io/badge/%E2%88%91%20TOTAL-4-0b0f14?style=for-the-badge" alt="total views" />
 </p>
--->
 <!-- VISITOR-COUNT:END -->
 
 <p align="center">
