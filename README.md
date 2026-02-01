@@ -117,7 +117,7 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 기본 인프라 아키텍�
 <td width="50%" valign="top">
 
 <a href="https://github.com/Oh-Jisong/V-League-Volleyball-Scouting-Analytics-Platform">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=V-League-Volleyball-Scouting-Analytics-Platform&theme=github_dark&hide_border=true&v=3" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=V-League-Volleyball-Scouting-Analytics-Platform&theme=github_dark&hide_border=true&cache_seconds=86400" />
 </a>
 
 <br/>
@@ -128,7 +128,7 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 기본 인프라 아키텍�
 <td width="50%" valign="top">
 
 <a href="https://github.com/Oh-Jisong/php-mysql-order-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=php-mysql-order-system&theme=github_dark&hide_border=true&v=3" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=php-mysql-order-system&theme=github_dark&hide_border=true&cache_seconds=86400" />
 </a>
 
 <br/>
@@ -141,7 +141,7 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 기본 인프라 아키텍�
 <td width="50%" valign="top">
 
 <a href="https://github.com/Oh-Jisong/Linux-project_Rule-based-chatbot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=Linux-project_Rule-based-chatbot&theme=github_dark&hide_border=true&v=3" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=Linux-project_Rule-based-chatbot&theme=github_dark&hide_border=true&cache_seconds=86400" />
 </a>
 
 <br/>
@@ -152,7 +152,7 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 기본 인프라 아키텍�
 <td width="50%" valign="top">
 
 <a href="https://github.com/Oh-Jisong/Olist-From-First-Purchase-to-Loyalty">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=Olist-From-First-Purchase-to-Loyalty&theme=github_dark&hide_border=true&v=3" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Oh-Jisong&repo=Olist-From-First-Purchase-to-Loyalty&theme=github_dark&hide_border=true&cache_seconds=86400" />
 </a>
 
 <br/>
@@ -201,19 +201,16 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 기본 인프라 아키텍�
 
 <!-- hero activity card -->
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oh-Jisong&theme=github_dark&v=20260123" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oh-Jisong&theme=github_dark" />
 </p>
 
 <br/>
 
 <!-- streak + stats row (no table) -->
 <p>
+  <img src="https://streak-stats.demolab.com?user=Oh-Jisong&theme=dark&hide_border=true" width="49%" />
   <img
-    src="https://streak-stats.demolab.com?user=Oh-Jisong&theme=dark&hide_border=true&background=05070A&ring=2563EB&fire=22C55E&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=6B7280&v=20260125"
-    width="49%"
-  />
-  <img
-  src="https://github-readme-stats.vercel.app/api?username=Oh-Jisong&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600"
+  src="https://github-readme-stats.vercel.app/api?username=Oh-Jisong&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
   width="49%"
     />
 
@@ -225,10 +222,10 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 기본 인프라 아키텍�
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oh-Jisong&theme=github_dark&v=20260123" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oh-Jisong&theme=github_dark" />
     </td>
     <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oh-Jisong&theme=github_dark&v=20260123" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oh-Jisong&theme=github_dark" />
     </td>
   </tr>
 </table>
