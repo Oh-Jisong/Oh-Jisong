@@ -180,6 +180,7 @@ SQLi/XSS/업로드 취약점 등 공격 시나리오를 구현하고 입력 검�
 
 <br/>
 
+<!--
 <!-- streak + stats row (no table) -->
 <p>
   <img src="https://streak-stats.demolab.com?user=Oh-Jisong&theme=dark&hide_border=true" width="49%" />
@@ -188,6 +189,7 @@ SQLi/XSS/업로드 취약점 등 공격 시나리오를 구현하고 입력 검�
   width="49%"
     />
 </p>
+ -->
 
 <br/>
 
