@@ -18,6 +18,15 @@ Secure APIs · Risk-aware Data Pipelines · Security Automation · Cloud-native 
 <br/>
 
 <p>
+<img src="https://img.shields.io/badge/Focus-Backend%20Security-0b0f14?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Architecture-Threat--Aware-0b0f14?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Specialty-Malware%20Pipeline-0b0f14?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Interest-Security%20Automation-0b0f14?style=for-the-badge" />
+</p>
+
+<br/>
+
+<p>
 🎓 <b>Ewha Womans University</b> — B.S. Candidate in Cybersecurity<br/>
 이화여자대학교 사이버보안학과 재학<br/>
 보안 문제의식을 기반으로 백엔드 아키텍처와 데이터 파이프라인을 설계하고<br/>
@@ -100,7 +109,7 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 인프라 구조 이해
 <img src="https://img.shields.io/badge/x64dbg-0b0f14?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Immunity%20Debugger-0b0f14?style=for-the-badge" />
 
-<br/><br/>
+<br/>
 
 ### Dev Tools
 협업 · 테스트 · 자동화 환경  
@@ -114,58 +123,32 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 인프라 구조 이해
 
 ## 🔐 Security Foundations
 
-### Malware Triage E2E Pipeline
-정적/동적 분석 결과를 JSON 스키마로 구조화하고 자동 리포트를 생성하는 분석 파이프라인
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Malware Triage E2E Pipeline** | 정적/동적 분석 결과를 스키마 기반 JSON으로 구조화하고 자동 리포트를 생성하는 분석 파이프라인 | Python · Detection Engineering · JSON Schema |
+| **Vulnerable Web Lab** | SQLi/XSS/업로드 취약점을 재현하고 보안 패치를 적용해 전후 비교 분석 | PHP · MySQL · Web Security |
 
-- IOC 정규화 · Evidence 기반 분석  
-- Schema-driven Detection Engineering  
-- Automated Report Rendering  
 
----
+## 🧠 Security Automation
 
-### Vulnerable Web Lab
-웹 취약점을 직접 재현하고 보안 패치를 적용해 전후 비교 분석
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Policy Risk Agent** | 정책 문서를 구조화하고 보안 리스크 관점에서 점검하는 AI 기반 분석 시스템 | Python · FastAPI · LLM Pipeline |
 
-- SQLi · XSS · File Upload  
-- 공격 → 방어 → 코드 개선 흐름  
-
----
-
-## 🧠 AI + Security Automation
-
-### Policy Risk Agent
-정책 문서를 파싱하고 핵심 조항을 구조화해 리스크 관점에서 점검하는 AI Agent
-
-- Document Parse → IE → Risk Assessment  
-- 개인정보 수집 · 책임 전가 · 모호 조항 탐지  
-
----
 
 ## 🧩 Backend Systems
 
-### SQL Analytics Platform
-배구 데이터를 OLAP 관점으로 분석한 스카우팅 플랫폼
+| Project | Description | Tech |
+|--------|-------------|------|
+| **SQL Analytics Platform** | 배구 데이터를 OLAP 관점으로 분석한 스카우팅 플랫폼 | PHP · MySQL · SQL |
+| **Linux Automation Chatbot** | 리눅스 명령/워크플로우 자동화를 위한 시스템 챗봇 | Linux · Bash |
 
-- Ranking · Window Function  
-- Dashboard Metrics Design  
-
----
-
-### Linux Automation Chatbot
-리눅스 명령/워크플로우를 자동화하는 시스템 챗봇
-
-- Command Routing  
-- Shell Automation  
-
----
 
 ## 📊 Data & ML
 
-### Olist Retention Analytics
-첫 구매 → 재구매 흐름을 분석한 코호트/리텐션 프로젝트
-
-- Gateway Product 가설 검증  
-- Retention Modeling  
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Olist Retention Analytics** | 첫 구매 → 재구매 흐름을 분석한 코호트/리텐션 프로젝트 | Python · Pandas · ML | 
 
 ---
 
