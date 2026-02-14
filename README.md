@@ -38,15 +38,14 @@ Secure APIs · Risk-aware Data Pipelines · Security Automation · Cloud-native 
 
 ---
 
-# 🧭 Portfolio Storyline
+# Portfolio Storyline
 
-저의 포트폴리오는 단순 기능 구현이 아니라  
-**“보안 문제의식 → 위협 분석 → 시스템 설계 → 자동화 확장”** 흐름으로 구성되어 있습니다.
+**“보안 문제의식 → 위협 분석 → 시스템 설계 → 자동화 확장”**
 
-1. 웹 취약점 실습과 공격 재현을 통해 보안 위협을 이해하고  
-2. Malware 분석 파이프라인으로 위협 행위를 구조화하며  
-3. Backend 시스템으로 서비스 환경을 구현하고  
-4. Policy AI Agent로 보안 점검을 자동화하는 방향으로 확장했습니다.
+1. 웹 취약점 실습과 공격 재현을 통한 보안 위협 이해  
+2. Malware 분석 파이프라인으로 위협 행위 구조화  
+3. Backend 시스템으로 서비스 환경을 구현 
+4. Policy AI Agent로 보안 점검을 자동화하는 방향으로 확장
 
 ---
 
@@ -75,7 +74,7 @@ Secure APIs · Risk-aware Data Pipelines · Security Automation · Cloud-native 
 
 ---
 
-# 🧱 Tech Stack
+# Tech Stack
 
 <div align="center">
 
