@@ -47,8 +47,6 @@ Secure APIs · Risk-aware Data Pipelines · Security Automation · Cloud-native 
 
 ---
 
-# Portfolio Storyline
-
 **“보안 문제의식 → 위협 분석 → 시스템 설계 → 자동화 확장”**
 
 1. 웹 취약점 실습과 공격 재현을 통한 보안 위협 이해  
@@ -58,7 +56,7 @@ Secure APIs · Risk-aware Data Pipelines · Security Automation · Cloud-native 
 
 ---
 
-# Portfolio Architecture
+# Architecture
 
 ```text
 [Security]
