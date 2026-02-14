@@ -2,6 +2,15 @@
 
 <br/>
 
+<p>
+<img src="https://img.shields.io/badge/Focus-Backend%20Security-0b0f14?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Architecture-Threat--Aware-0b0f14?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Specialty-Malware%20Pipeline-0b0f14?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Interest-Security%20Automation-0b0f14?style=for-the-badge" />
+</p>
+
+<br/>
+
 <div align="center">
 
 <h2>Security-Aware Backend Engineer</h2>
@@ -13,15 +22,6 @@
 
 <p>
 Secure APIs · Risk-aware Data Pipelines · Security Automation · Cloud-native Backend
-</p>
-
-<br/>
-
-<p>
-<img src="https://img.shields.io/badge/Focus-Backend%20Security-0b0f14?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Architecture-Threat--Aware-0b0f14?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Specialty-Malware%20Pipeline-0b0f14?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Interest-Security%20Automation-0b0f14?style=for-the-badge" />
 </p>
 
 <br/>
