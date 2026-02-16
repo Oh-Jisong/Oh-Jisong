@@ -164,9 +164,37 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 인프라 구조 이해
 
 # Activity
 
-<p align="center">
+<!-- hero activity card -->
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oh-Jisong&theme=github_dark" />
 </p>
+
+<br/>
+
+<!--
+<p>
+  <img src="https://streak-stats.demolab.com?user=Oh-Jisong&theme=dark&hide_border=true" width="49%" />
+  <img
+  src="https://github-readme-stats.vercel.app/api?username=Oh-Jisong&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+  width="49%"
+    />
+</p>
+ -->
+
+<br/>
+
+<!-- bottom summary cards -->
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oh-Jisong&theme=github_dark" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Oh-Jisong&theme=github_dark" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
