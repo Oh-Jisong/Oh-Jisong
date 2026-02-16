@@ -171,7 +171,6 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 인프라 구조 이해
 
 <br/>
 
-<!--
 <p>
   <img src="https://streak-stats.demolab.com?user=Oh-Jisong&theme=dark&hide_border=true" width="49%" />
   <img
@@ -179,7 +178,6 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 인프라 구조 이해
   width="49%"
     />
 </p>
- -->
 
 <br/>
 
