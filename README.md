@@ -1,6 +1,10 @@
 <img src="https://raw.githubusercontent.com/Oh-Jisong/Oh-Jisong/main/assets/banner.svg?v=7" alt="banner" width="100%"/>
 
 <!--
+여기부터 전부 숨김
+-->
+
+<!--
 <br/>
 
 <p align="center">
@@ -153,9 +157,7 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 인프라 구조 이해
 
 
 ---
--->
 
-<!--
 # Algorithm & Problem Solving
 
 <p align="center">
@@ -166,9 +168,7 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 인프라 구조 이해
 
 
 ---
--->
 
-<!--
 # Activity
 
 <!-- hero activity card -->
@@ -192,10 +192,6 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 인프라 구조 이해
 
 ---
 
--->
-
-
-<!--
 # Now
 
 - Threat-aware backend architecture 설계  
@@ -204,6 +200,7 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 인프라 구조 이해
 - Cloud-native deployment 학습  
 
 ---
+
 -->
 # Contact
 
