@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/Oh-Jisong/Oh-Jisong/main/assets/banner.svg?v=7" alt="banner" width="100%"/>
 
+<!--
 <br/>
 
 <p align="center">
@@ -206,3 +207,5 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 인프라 구조 이해
     <img src="https://img.shields.io/badge/LinkedIn-0b0f14?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+-->
