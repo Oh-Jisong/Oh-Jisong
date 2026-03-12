@@ -171,14 +171,12 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 인프라 구조 이해
 
 # Activity
 
-<!-- hero activity card -->
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oh-Jisong&theme=github_dark" />
 </p>
 
 <br/>
 
-<!-- bottom summary cards -->
 <table>
   <tr>
     <td width="50%">
