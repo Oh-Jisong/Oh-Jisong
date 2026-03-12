@@ -151,8 +151,10 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 인프라 구조 이해
 |--------|-------------|------|
 | **Olist Retention Analytics** | 첫 구매 → 재구매 흐름을 분석한 코호트/리텐션 프로젝트 | Python · Pandas · ML | 
 
--->
+
 ---
+-->
+
 <!--
 # Algorithm & Problem Solving
 
@@ -161,8 +163,11 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 인프라 구조 이해
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=okjss9872" width="320" />
   </a>
 </p>
--->
+
+
 ---
+-->
+
 <!--
 # Activity
 
@@ -185,8 +190,11 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 인프라 구조 이해
   </tr>
 </table>
 
--->
 ---
+
+-->
+
+
 <!--
 # Now
 
