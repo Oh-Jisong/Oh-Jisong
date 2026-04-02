@@ -17,6 +17,8 @@
 
 <br/>
 
+<!--
+
 <div align="center">
 
 <h2>Security-Aware Backend Engineer</h2>
@@ -199,7 +201,7 @@ Linux 환경 구성 · 컨테이너 기반 배포 · 인프라 구조 이해
 - Cloud-native deployment 학습  
 
 ---
-
+-->
 
 # Contact
 
